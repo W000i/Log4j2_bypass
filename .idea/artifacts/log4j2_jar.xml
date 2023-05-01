@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="log4j2混淆:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/log4j2_jar</output-path>
+    <root id="archive" name="log4j2混淆.jar">
+      <element id="module-output" name="log4j2混淆" />
+    </root>
+  </artifact>
+</component>
